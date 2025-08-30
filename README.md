@@ -3,12 +3,13 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&color=FF69B4&width=435&lines=Hi+there%2C+I'm+Mohana+%F0%9F%92%8C;Developer+%7C+Tech+Explorer" alt="Typing SVG" />
 </h1>
-<img align="right" width="300" height="200" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<img align="right" width="300" height="250" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-🎓 Final Year B.Tech - Computer Science & Engineering  
-👩‍💻 Passionate Developer | Python, ReactJS, AI/ML, Quantum Enthusiast  
-📈 Lifelong Learner | Always exploring & upskilling  
-🔍 Currently deep-diving into: **Full Stack Development**, **AI/ML**, and **Quantum Tech**
+
+🎓 Third year B.Tech - Computer Science(ICB)
+👩‍💻 Passionate Developer | Python,Java
+📈 Lifelong Learner | Always exploring  
+🔍currently deeper in java developer
 
 ---
 
@@ -34,15 +35,6 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 
----
-
-## 🚀 Featured Projects  
-
-- [AI-Powered Chatbot](https://github.com/mohana/AI-Chatbot) – NLP-based chatbot using Python & ML  
-- [Full-Stack E-Commerce App](https://github.com/mohana/E-Commerce-App) – MERN stack project with payment gateway  
-- [Quantum Simulator](https://github.com/mohana/Quantum-Simulator) – Beginner-friendly quantum computing simulations  
-
----
 
 ## 📊 GitHub Stats  
 
