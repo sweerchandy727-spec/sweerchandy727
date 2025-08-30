@@ -1,4 +1,4 @@
-# ✨ Tech with a Touch of Passion 💙:
+# "Living in Loops, Thinking in Functions" 🔁
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&color=FF69B4&width=435&lines=Hi+there%2C+I'm+Mohana+%F0%9F%92%8C;Developer+%7C+Tech+Explorer" alt="Typing SVG" />
@@ -6,10 +6,16 @@
 <img align="right" width="300" height="250" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 
-🎓 Third year B.Tech - Computer Science(ICB)
-👩‍💻 Passionate Developer | Python,Java
-📈 Lifelong Learner | Always exploring  
-🔍currently deeper in java developer
+ 🎓 Third Year B.Tech – Computer Science (ICB) @Manakula Vinayagar Institute of Technology(2024-2027)
+👩‍💻 Passionate Developer | Expertise in Python & Java  
+📈 Lifelong Learner | Continuously Exploring New Technologies  
+🔍 Currently Focusing on Java Development & Advanced Programming
+🎯 Objective: To develop efficient, scalable, and maintainable software using Python and Java.
+
+ABOUT ME:
+⚡ Loves solving complex problems and creating efficient algorithms
+🌐 Enjoys building full-stack applications and contributing to open-source projects
+🚀 Motivated by challenges, coding competitions, and tech innovation
 
 ---
 
@@ -46,10 +52,7 @@
 
 ---
 
-## 💬 Quote That Drives Me  
-
-> *"Success doesn't come from what you do occasionally. It comes from what you do consistently."* 🌟  
-> *"Consistency beats intensity, every single time."* 💡  
+## 💬 Q
 
 ---
 
